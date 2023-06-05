@@ -1,0 +1,5 @@
+﻿  Compilers.c
+  Reader.c
+C:\Users\josevinueza\source\repos\PePe\Reader.c(239,2): warning C4013: 'memset' undefined; assuming extern returning int
+  Generating Code...
+  PePe.vcxproj -> C:\Users\josevinueza\source\repos\PePe\x64\Debug\PePe.exe
